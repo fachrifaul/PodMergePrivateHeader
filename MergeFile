@@ -1,0 +1,4 @@
+
+group 'ImagePods' do
+    pod 'SDWebImage'
+end
